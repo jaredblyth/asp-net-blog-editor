@@ -12,7 +12,7 @@ Set up instructions for members can be found in https://github.com/jaredblyth/as
 
 These modules can be used as the basis of any Content Management System (CMS) in the .NET environment. They have been tested in .NET 4.5
 
-Screenshots and further information canbe found at http://jaredblyth.com/page.php?id=70
+Screenshots and further information can be found at http://jaredblyth.com/page.php?id=70
 
 I have also built a version of Blog Editor for PHP that stores the data in a MySQL database. https://github.com/jaredblyth/php-blog-editor
 
