@@ -1,4 +1,4 @@
-These two modules are separate but work together. 
+These two modules are separate but work together. There is now a vesion of Blog Editor written in C#.
 
 Blog Editor allows a user to create blog entries into a SQLServer database. It has a cookie-based security system that requires the user to login with a password before making any changes. 
 
